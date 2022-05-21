@@ -1,0 +1,138 @@
+body
+{
+    text-align: center;
+}
+
+h1 {
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
+}
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+
+
+.my_nav_bar
+{
+    position:sticky;
+    top:0;
+    z-index:99999
+}
+
+input
+{
+    background: grey;
+}
+
+#image{
+    height : 300px ;
+    width : 450px ;
+    border-radius : 50% ;
+    border-width: 5;
+    border-bottom-style: double;
+    border-color:white;
+    padding:10px
+}
+
+.name{
+    font-family: 'Dancing Script', cursive;
+}
+
+#welcome{ 
+    position : sticky;
+    overflow: hidden; 
+    background: linear-gradient( #030ffc 0%, #0366fc 30%, #8bb3f0 70% ); 
+    opacity : 0.9; 
+    width : 100%; 
+    height : 100%; 
+    text-align : center; 
+    padding-top : 80px; 
+    color: black;
+}
+
+#H2{
+    font-style: oblique;
+}
+
+p{
+    text-align: left;
+}
+
+#bio{
+    margin-left: 70px;
+    margin-right: 70px;
+    font-size: 20px;
+    border-color: #162091;
+    border-width: 5px;
+    border-style: double;
+    padding left: 100px;
+    padding-right: -100px;
+}
+
+#hr1{
+    height: 10px;
+    width: 120px;
+    background-color:#a82236;
+}
+
+#hr2{
+    height: 10px;
+    width: 210px;
+    background-color: #ffffff;
+}
+
+#H1{
+    font-family:fantasy;
+}
+ 
+#work{
+    background-color: #72e88d;
+    margin-top: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#heading2{
+    font-family: serif;
+    border: 5px dotted red;
+}
+
+#heading1{
+    font-family: serif;
+}
+
+.books{
+    font-size: 25px;
+}
+
+#books{
+    background-color: #f5f3b5;
+    padding-bottom:20px;
+}
+
+#heading3{
+    font-family: serif;
+    border: 5px outset purple;
+}
+
+.span{
+    font-size: 23px;
+}
+
